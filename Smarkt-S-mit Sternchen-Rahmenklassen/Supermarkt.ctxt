@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Supermarkt()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Supermarkt\r\n
+comment1.params=durchgaenge
+comment1.target=void\ simulation(int)
+comment1.text=\r\n\ Die\ Methode\ steuert\ die\ Simulation\ durch\ \r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=
+comment2.target=void\ naechsteRunde()
+comment3.params=
+comment3.target=Kasse\ getKuerzesteKasse()
+comment3.text=\r\n\ Sucht\ nach\ der\ Kasse,\ die\ besetzt\ ist\ und\ die\ k\u00FCrzeste\ L\u00E4nge\ hat.\r\n
+comment4.params=
+comment4.target=void\ kassenArbeiten()
+comment4.text=\r\n\ Die\ Kassen\ bearbeiten\ die\ Artikel\ der\ vordersten\ Kunden.\r\n
+comment5.params=aktuelleRunde
+comment5.target=void\ kassenAusgeben(int)
+comment6.params=
+comment6.target=void\ warte()
+numComments=7

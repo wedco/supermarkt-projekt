@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=artikelAnzahl
+comment0.target=Kunde(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Kunde\r\n
+comment1.params=artikelProRunde
+comment1.target=void\ bearbeiteArtikel(int)
+comment1.text=\r\n\ Dem\ Kunden\ werden\ pro\ Runde\ Artikel\ artikelProRunde\ Artikel\ bearbeitet.\r\n
+comment2.params=aktuelleRunde
+comment2.target=void\ wartezeitStart(int)
+comment3.params=aktuelleRunde
+comment3.target=int\ getWartezeit(int)
+comment4.params=aktuelleRunde
+comment4.target=void\ ausgeben(int)
+comment5.params=
+comment5.target=boolean\ istFertig()
+numComments=6
